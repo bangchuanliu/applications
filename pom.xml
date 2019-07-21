@@ -12,6 +12,8 @@
     <module>tinyurl</module>
     <module>ratelimiter</module>
     <module>stockprice</module>
+      <module>message-queue</module>
+    <module>search</module>
   </modules>
 
   <name>applications</name>

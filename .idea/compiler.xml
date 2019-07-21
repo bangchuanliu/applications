@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ratelimiter" />
         <module name="tinyurl" />
+        <module name="ratelimiter" />
+        <module name="message-queue" />
+        <module name="stockprice" />
       </profile>
     </annotationProcessing>
   </component>
